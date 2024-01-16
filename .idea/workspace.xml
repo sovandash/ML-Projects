@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d209b6-506c-48c5-83d4-05f85a1aec5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/.idea/movies_recommender_syatem.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/APP.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/movies.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies_recommender_system/setup.sh" beforeDir="false" />
-    </list>
+    <list default="true" id="62d209b6-506c-48c5-83d4-05f85a1aec5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
